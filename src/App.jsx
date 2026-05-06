@@ -1,4 +1,4 @@
-import BookStore from "./components/BookStore";
+import BookStore from "./Components/BookStore";
 
 function App() {
   return <BookStore />;
